@@ -35,8 +35,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-je3cWsreTixzYIdGn19-7" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Table.svg;" vertex="1" parent="1">
-          <mxGeometry x="60" y="100" width="64" height="52" as="geometry" />
+        <mxCell id="-je3cWsreTixzYIdGn19-7" value="" style="image;aspect=fixed;html=1;points=[[0,0.29,0,0,0],[0.02,0.69,0,0,0],[0.99,0.28,0,0,0],[1,0.65,0,0,0]];align=center;fontSize=12;image=img/lib/azure2/general/Table.svg;" vertex="1" parent="1">
+          <mxGeometry x="73" y="100" width="64" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
