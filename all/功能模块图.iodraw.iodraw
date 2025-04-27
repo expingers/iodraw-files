@@ -35,11 +35,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-je3cWsreTixzYIdGn19-7" value="" style="image;aspect=fixed;html=1;points=[[0,0.29,0,0,0],[0.02,0.69,0,0,0],[0.99,0.28,0,0,0],[1,0.65,0,0,0]];align=center;fontSize=12;image=img/lib/azure2/general/Table.svg;" vertex="1" parent="1">
+        <mxCell id="-je3cWsreTixzYIdGn19-7" value="" style="image;aspect=fixed;html=1;points=[[0,0.29,0,0,0],[0,0.71,0,0,0],[0.99,0.28,0,0,0],[1,0.65,0,0,0]];align=center;fontSize=12;image=img/lib/azure2/general/Table.svg;" vertex="1" parent="1">
           <mxGeometry x="73" y="100" width="64" height="52" as="geometry" />
         </mxCell>
         <mxCell id="-je3cWsreTixzYIdGn19-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.02;exitY=0.69;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-je3cWsreTixzYIdGn19-7" target="M0XZ8neaulLhUQ9y2jq0-1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="50" y="136" />
+              <mxPoint x="50" y="210" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
