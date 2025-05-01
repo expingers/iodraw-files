@@ -60,7 +60,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-je3cWsreTixzYIdGn19-13" value="" style="shape=mxgraph.cisco.misc.ubr910;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="240" width="101" height="50" as="geometry" />
+          <mxGeometry x="470" y="120" width="101" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
