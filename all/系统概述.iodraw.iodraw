@@ -3605,7 +3605,12 @@
           </mxCell>
         </object>
         <mxCell id="ezq2VYTXxJ1coS6JSSSW-13" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="-5ls2pia2fKBDVH_0giQ-1" target="J7NyKB5NM2fLiG13hf7u-1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="355" y="470" />
+              <mxPoint x="550" y="470" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="-5ls2pia2fKBDVH_0giQ-1" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;我方态势&lt;/font&gt;" style="image;aspect=fixed;html=1;points=[[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0]];align=center;fontSize=10;image=img/lib/azure2/general/Table.svg;labelBackgroundColor=none;spacing=-3;" vertex="1" parent="1">
           <mxGeometry x="330" y="489.9999999999999" width="49.21" height="40" as="geometry" />
