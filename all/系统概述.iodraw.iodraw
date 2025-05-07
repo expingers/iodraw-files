@@ -3636,8 +3636,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="535" y="470" />
-              <mxPoint x="610" y="470" />
-              <mxPoint x="610" y="450" />
+              <mxPoint x="618" y="470" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -3655,6 +3654,9 @@
         </mxCell>
         <mxCell id="ezq2VYTXxJ1coS6JSSSW-2" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;博弈矩阵&lt;/font&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.storage;pointerEvents=1;spacing=-3;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="226.7100000000001" y="420" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ezq2VYTXxJ1coS6JSSSW-7" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="J7NyKB5NM2fLiG13hf7u-1" target="ezq2VYTXxJ1coS6JSSSW-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
