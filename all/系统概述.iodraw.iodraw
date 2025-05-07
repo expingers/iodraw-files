@@ -3527,7 +3527,7 @@
         <mxCell id="28fB9UOimlopxAM1CrVf-39" value="集群训练" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;arcSize=15;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="238.5" y="502" width="55" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="28fB9UOimlopxAM1CrVf-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="28fB9UOimlopxAM1CrVf-40" target="28fB9UOimlopxAM1CrVf-38">
+        <mxCell id="28fB9UOimlopxAM1CrVf-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="28fB9UOimlopxAM1CrVf-40" target="28fB9UOimlopxAM1CrVf-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="28fB9UOimlopxAM1CrVf-40" value="算法升级" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;arcSize=15;strokeColor=none;" vertex="1" parent="1">
