@@ -3617,7 +3617,10 @@
           <mxGeometry x="509.99999999999994" y="490.0000000000001" width="49.21" height="40" as="geometry" />
         </mxCell>
         <mxCell id="J7NyKB5NM2fLiG13hf7u-1" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;基于DDPG的多智能体路径规划&lt;br&gt;&lt;/font&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;处理中心&lt;/font&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;labelPosition=center;align=center;fontSize=8;fillColor=#ffe6cc;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="570" y="380" width="95" height="40" as="geometry" />
+          <mxGeometry x="570" y="410" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2C_TYT8lT3CnoOJTuAqW-1" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;基于领导评价的&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;纳什Q学习博弈&lt;/font&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;处理中心&lt;/font&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;labelPosition=center;align=center;fontSize=8;fillColor=#CCFFCC;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="194.21" y="340" width="95" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
