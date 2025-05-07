@@ -3625,8 +3625,8 @@
         <mxCell id="ezq2VYTXxJ1coS6JSSSW-1" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;任务路径数据&lt;/font&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.storage;pointerEvents=1;spacing=-3;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="602.5000000000001" y="360" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ezq2VYTXxJ1coS6JSSSW-2" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;任务路径数据&lt;/font&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.storage;pointerEvents=1;spacing=-3;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="612.5000000000001" y="370" width="30" height="20" as="geometry" />
+        <mxCell id="ezq2VYTXxJ1coS6JSSSW-2" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;博弈矩阵&lt;/font&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.storage;pointerEvents=1;spacing=-3;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="226.7100000000001" y="420" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
