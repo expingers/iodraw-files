@@ -3500,6 +3500,9 @@
         <mxCell id="28fB9UOimlopxAM1CrVf-32" value="采集" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;arcSize=15;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="293.5" y="563.5" width="22.5" height="33" as="geometry" />
         </mxCell>
+        <mxCell id="28fB9UOimlopxAM1CrVf-34" value="无人机" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;arcSize=15;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="510" width="55" height="33" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
