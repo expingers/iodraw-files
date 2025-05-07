@@ -447,7 +447,7 @@
         <mxCell id="EC8kOrzqCQdBIv4F5Jo4-40" value="上层应用" style="shape=partialRectangle;whiteSpace=wrap;html=1;right=0;top=0;bottom=1;fillColor=default;routingCenterX=-0.5;strokeWidth=2;strokeColor=#000000;left=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="EC8kOrzqCQdBIv4F5Jo4-41" vertex="1">
           <mxGeometry x="15.310000000000016" width="69.39" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EC8kOrzqCQdBIv4F5Jo4-7" value="应用" style="locked=1;" parent="0" />
+        <mxCell id="EC8kOrzqCQdBIv4F5Jo4-7" value="应用" style="" parent="0" />
         <mxCell id="EC8kOrzqCQdBIv4F5Jo4-8" value="" style="strokeWidth=2;dashed=0;align=center;fontSize=8;shape=ellipse;fillColor=#000000;strokeColor=none;" parent="EC8kOrzqCQdBIv4F5Jo4-7" vertex="1">
           <mxGeometry x="133.99" y="398" width="12" height="12" as="geometry" />
         </mxCell>
@@ -3617,7 +3617,7 @@
           <mxGeometry x="509.99999999999994" y="490.0000000000001" width="49.21" height="40" as="geometry" />
         </mxCell>
         <mxCell id="J7NyKB5NM2fLiG13hf7u-1" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;基于DDPG的多智能体路径规划&lt;br&gt;&lt;/font&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;处理中心&lt;/font&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;labelPosition=center;align=center;fontSize=8;fillColor=#ffe6cc;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="248" y="410" width="95" height="40" as="geometry" />
+          <mxGeometry x="570" y="380" width="95" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
