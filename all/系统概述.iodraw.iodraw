@@ -3426,7 +3426,7 @@
           <mxGeometry x="435" y="502" width="160" height="33" as="geometry" />
         </mxCell>
         <mxCell id="28fB9UOimlopxAM1CrVf-10" value="采集" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;arcSize=15;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="150" y="619" width="35" height="33" as="geometry" />
+          <mxGeometry x="225" y="548" width="35" height="33" as="geometry" />
         </mxCell>
         <mxCell id="28fB9UOimlopxAM1CrVf-11" value="态势" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;arcSize=15;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="225" y="678" width="35" height="33" as="geometry" />
