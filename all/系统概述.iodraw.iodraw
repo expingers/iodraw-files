@@ -3394,7 +3394,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="VBl9SkaEGehI1RsovZny" name="第 20 页">
-    <mxGraphModel dx="683" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="229" dy="153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3507,7 +3507,7 @@
           <mxGeometry x="330" y="480" width="55" height="33" as="geometry" />
         </mxCell>
         <mxCell id="28fB9UOimlopxAM1CrVf-36" value="采集" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;arcSize=15;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="330" y="530" width="60" height="23" as="geometry" />
+          <mxGeometry x="330" y="530.5" width="55" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
