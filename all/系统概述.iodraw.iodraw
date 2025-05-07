@@ -3521,7 +3521,8 @@
         <mxCell id="28fB9UOimlopxAM1CrVf-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="28fB9UOimlopxAM1CrVf-38" target="28fB9UOimlopxAM1CrVf-36">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="330" y="479" />
+              <mxPoint x="310" y="479" />
+              <mxPoint x="310" y="534" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -3534,6 +3535,10 @@
         <mxCell id="28fB9UOimlopxAM1CrVf-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="28fB9UOimlopxAM1CrVf-39" target="28fB9UOimlopxAM1CrVf-36">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="330" y="540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="310" y="512" />
+              <mxPoint x="310" y="534" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="28fB9UOimlopxAM1CrVf-39" value="集群训练" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;arcSize=15;strokeColor=none;" vertex="1" parent="1">
@@ -3552,8 +3557,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="330" y="540" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="320" y="545" />
-              <mxPoint x="320" y="534" />
+              <mxPoint x="310" y="545" />
+              <mxPoint x="310" y="534" />
             </Array>
           </mxGeometry>
         </mxCell>
