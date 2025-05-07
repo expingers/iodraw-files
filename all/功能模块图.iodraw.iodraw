@@ -17,7 +17,7 @@
           <mxGeometry x="46" y="38" width="12" height="12" as="geometry" />
         </mxCell>
         <mxCell id="-je3cWsreTixzYIdGn19-23" value="" style="image;aspect=fixed;html=1;points=[[0,0.29,0,0,0],[0,0.71,0,0,0],[1,0.29,0,0,0],[1,0.71,0,0,0]];align=center;fontSize=12;image=img/lib/azure2/general/Table.svg;" vertex="1" parent="1">
-          <mxGeometry x="300" y="32" width="64" height="52" as="geometry" />
+          <mxGeometry x="250" y="220" width="64" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
