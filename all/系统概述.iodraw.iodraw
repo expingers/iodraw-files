@@ -3425,7 +3425,7 @@
         <mxCell id="28fB9UOimlopxAM1CrVf-9" value="分类标注/关联匹配/融合对齐" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;arcSize=15;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="435" y="502" width="160" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="28fB9UOimlopxAM1CrVf-10" value="采集" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;arcSize=15;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="28fB9UOimlopxAM1CrVf-10" value="上层应用" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;arcSize=15;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="225" y="548" width="35" height="33" as="geometry" />
         </mxCell>
         <mxCell id="28fB9UOimlopxAM1CrVf-11" value="态势" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;arcSize=15;strokeColor=none;" vertex="1" parent="1">
