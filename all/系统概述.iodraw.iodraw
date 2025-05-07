@@ -3515,11 +3515,17 @@
             <mxPoint x="368" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="28fB9UOimlopxAM1CrVf-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="28fB9UOimlopxAM1CrVf-38" target="28fB9UOimlopxAM1CrVf-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="28fB9UOimlopxAM1CrVf-38" value="策略学习" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;arcSize=15;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="238.5" y="469" width="55" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="28fB9UOimlopxAM1CrVf-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="28fB9UOimlopxAM1CrVf-39" target="28fB9UOimlopxAM1CrVf-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="28fB9UOimlopxAM1CrVf-39" value="集群训练" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;arcSize=15;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="238.5" y="497.5" width="55" height="20" as="geometry" />
+          <mxGeometry x="238.5" y="502" width="55" height="20" as="geometry" />
         </mxCell>
         <mxCell id="28fB9UOimlopxAM1CrVf-40" value="算法升级" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;arcSize=15;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="238.5" y="535" width="55" height="20" as="geometry" />
