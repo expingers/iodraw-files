@@ -3703,7 +3703,7 @@
         <mxCell id="huITEPaeaFsHr6CBjkUE-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="huITEPaeaFsHr6CBjkUE-1" target="huITEPaeaFsHr6CBjkUE-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="huITEPaeaFsHr6CBjkUE-5" value="$$x_1^2$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="huITEPaeaFsHr6CBjkUE-3">
+        <mxCell id="huITEPaeaFsHr6CBjkUE-5" value="\(x_1^2\)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="huITEPaeaFsHr6CBjkUE-3">
           <mxGeometry x="-0.054" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
